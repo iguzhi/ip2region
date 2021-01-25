@@ -1,5 +1,5 @@
 {
-  "name": "node-ip2region",
+  "name": "iguzhi-ip2region",
   "version": "1.0.2",
   "description": "official nodejs client of ip2region",
   "main": "ip2region.js",
